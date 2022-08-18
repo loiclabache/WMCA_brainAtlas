@@ -70,10 +70,15 @@ The `Atlas` folder contains 4 files:
 
 The 2 networks are briefly described below.
 
--   **WORD-LIST_CORE** included 18 essential sentence processing
-    regions.
--   **WORD-LIST_CONTROL** aggregated areas acknowledged as involved in
-    visual processing.
+-   **WORD-LIST_CORE** included 13 regions hosting motor and premotor
+    areas of the left hemisphere.This network is also an
+    **inter-hemispheric network** since it comprises the right superior
+    temporal sulcus (*STS3*). **WORD-LIST_CORE corresponds to the
+    essential phonological processing regions.**
+
+-   **WORD-LIST_CONTROL** aggregated 7 areas acknowledged as involved in
+    the monitoring aspect of the tasks that were common to the three
+    tasks.
 
 This above model posits that:
 
